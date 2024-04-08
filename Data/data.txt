@@ -1,0 +1,1 @@
+The dataset comprises 788,469 unique rows, including 780,168 true/real reviews and 8,301 fake reviews, from 35,429 unique reviewers across 250,078 unique restaurants. The Yelp dataset can be downloaded from (https://www.kaggle.com/datasets/ahmeddheyaa/prereviewscsv?resource=download).
